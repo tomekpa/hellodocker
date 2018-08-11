@@ -1,0 +1,1 @@
+Trigger Docker automated build test
